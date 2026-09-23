@@ -1,0 +1,8 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ADXL380") (type "KiCad") (uri "${KIPRJMOD}/Libraries/ADXL380/KiCADv6/2026-09-22_05-11-38.kicad_sym") (options "") (descr ""))
+	(lib (name "ICM-40609-D") (type "KiCad") (uri "${KIPRJMOD}/Libraries/ICM-40609-D/ICM-40609-D.kicad_sym") (options "") (descr ""))
+	(lib (name "IAM-20380") (type "KiCad") (uri "${KIPRJMOD}/Libraries/IAM-20380/IAM-20380.kicad_sym") (options "") (descr ""))
+	(lib (name "MMC5983MA") (type "KiCad") (uri "${KIPRJMOD}/Libraries/MMC5983MA/KiCADv6/2026-09-22_21-51-22.kicad_sym") (options "") (descr ""))
+	(lib (name "BMP581") (type "KiCad") (uri "${KIPRJMOD}/Libraries/BMP581/KiCADv6/2026-09-22_21-56-10.kicad_sym") (options "") (descr ""))
+)
