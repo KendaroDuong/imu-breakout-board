@@ -508,13 +508,14 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
+        "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
       }
     ],
     "meta": {
-      "version": 4
+      "version": 5
     },
     "net_colors": null,
     "netclass_assignments": null,
@@ -672,7 +673,7 @@
         "uuid": "e5b5f554-bb6f-4ecb-9cfb-c4d676c83727"
       }
     ],
-    "used_designators": "U1-6,D1-2,#PWR1-14,C1-9",
+    "used_designators": "U1-6,D1-3,#PWR1-18,C1-15",
     "variants": []
   },
   "sheets": [
@@ -687,6 +688,10 @@
     [
       "6b10effe-460f-49e2-814c-7c016a47a2da",
       "Magnetmeter and Barometer"
+    ],
+    [
+      "bab7d68f-99fb-444e-8eb8-51cc89c207e3",
+      "Breakouts"
     ]
   ],
   "text_variables": {},

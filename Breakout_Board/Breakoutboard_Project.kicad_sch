@@ -1745,6 +1745,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 45.72) (xy 92.71 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ae3291a-fde0-486c-82ff-b0fa711eeb49")
+	)
+	(wire
+		(pts
 			(xy 76.2 80.01) (xy 76.2 83.82)
 		)
 		(stroke
@@ -1935,6 +1945,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 43.18) (xy 153.67 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a511deda-73f7-4400-9db4-5822c91617f1")
+	)
+	(wire
+		(pts
 			(xy 41.91 50.8) (xy 41.91 52.07)
 		)
 		(stroke
@@ -1952,6 +1972,26 @@
 			(type default)
 		)
 		(uuid "be027df1-6dfb-4150-baff-c088af693d5e")
+	)
+	(wire
+		(pts
+			(xy 90.17 48.26) (xy 92.71 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bee283bc-123f-4007-99b2-595052449f7b")
+	)
+	(wire
+		(pts
+			(xy 149.86 30.48) (xy 153.67 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1792d4d-c2b3-4ac5-9774-17e34774a0dd")
 	)
 	(wire
 		(pts
@@ -1985,6 +2025,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 53.34) (xy 90.17 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce26feea-01ae-45ac-a4ca-a8f56443e07b")
+	)
+	(wire
+		(pts
 			(xy 19.05 50.8) (xy 30.48 50.8)
 		)
 		(stroke
@@ -2005,6 +2055,36 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 50.8) (xy 90.17 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e99f3274-47e6-4bbf-b4ea-eed3173795e7")
+	)
+	(wire
+		(pts
+			(xy 149.86 33.02) (xy 153.67 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb0c50ad-056f-4930-bae3-85d578e7bd37")
+	)
+	(wire
+		(pts
+			(xy 149.86 45.72) (xy 153.67 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebf40657-adb3-4005-bd9b-b88fbdcc8c52")
+	)
+	(wire
+		(pts
 			(xy 41.91 31.75) (xy 49.53 31.75)
 		)
 		(stroke
@@ -2012,6 +2092,26 @@
 			(type default)
 		)
 		(uuid "ec4dbe96-437b-4692-8f5a-a4a180dcdc0b")
+	)
+	(wire
+		(pts
+			(xy 149.86 48.26) (xy 153.67 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f76b271a-481d-4fdf-8a94-ca5bcf7722c6")
+	)
+	(wire
+		(pts
+			(xy 90.17 43.18) (xy 92.71 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f97090b2-b799-46bd-91c8-b04ed3a3d31e")
 	)
 	(wire
 		(pts
@@ -12296,6 +12396,106 @@
 			"kaCgoEtERERERERERILC/wPYXD7aGqqa/QAAAABJRU5ErkJggg=="
 		)
 	)
+	(label "MOSI_Accel_gyro"
+		(at 92.71 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1822141f-5ea7-4f35-bd98-ca5fe2d3534c")
+	)
+	(label "MOSI_Accel_gyro"
+		(at 149.86 45.72 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1e113891-1f1d-4601-89c7-f87cc5c09359")
+	)
+	(label "CS_ADXL"
+		(at 93.98 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3b7807bb-7613-42b1-aa76-3e8274a4cca8")
+	)
+	(label "MISO_Accel_gyro"
+		(at 149.86 48.26 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3d80e4a8-f088-4ee3-a29a-7b96c53feb20")
+	)
+	(label "SCLK_Accel_gyro"
+		(at 92.71 48.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "588f1cdf-7d7f-44eb-8063-a7b8c2862461")
+	)
+	(label "MISO_Accel_gyro"
+		(at 92.71 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5d432ac8-b88a-4222-a3be-9d2634794f7f")
+	)
+	(label "CS_ICM"
+		(at 149.86 33.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5dac6fae-c405-47b4-9299-bcdb66c8b2dd")
+	)
+	(label "SCLK_Accel_gyro"
+		(at 149.86 43.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6b9335c5-9745-4318-be1a-1e01c96d5883")
+	)
+	(label "CS_ICM"
+		(at 93.98 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a35dd26a-7b9a-41a8-807c-d523c8120952")
+	)
+	(label "CS_ADXL"
+		(at 149.86 30.48 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d6af7427-7981-4125-a1c2-233fec8283ed")
+	)
 	(symbol
 		(lib_id "power:GND")
 		(at 19.05 52.07 0)
@@ -13781,18 +13981,8 @@
 				(justify left)
 			)
 		)
-		(pin "INT2_ICM" output
-			(at 153.67 43.18 180)
-			(uuid "934370f3-fa81-44bc-b66b-888de82df317")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "SCL_Gyro_Accel" input
-			(at 153.67 45.72 180)
+			(at 153.67 43.18 180)
 			(uuid "cba90abf-59f2-4867-ba9d-1ff0c2372fa0")
 			(effects
 				(font
@@ -13802,7 +13992,7 @@
 			)
 		)
 		(pin "SDI_Gyro_Accel" input
-			(at 153.67 48.26 180)
+			(at 153.67 45.72 180)
 			(uuid "1c80e5de-889b-45da-b2a7-860ce005ce7c")
 			(effects
 				(font
@@ -13812,8 +14002,28 @@
 			)
 		)
 		(pin "SDO_Gyro_Accel" output
-			(at 153.67 50.8 180)
+			(at 153.67 48.26 180)
 			(uuid "dbb1cc29-21db-45ce-9b4d-28239c2cbe55")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FSYNC_ADXL" input
+			(at 153.67 50.8 180)
+			(uuid "bf1ca736-c9cb-4aaa-9282-0dfde772daf8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FSYNC_ICM" input
+			(at 153.67 53.34 180)
+			(uuid "47b587cb-6041-4194-8eb4-ce75f3ffd668")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13871,6 +14081,52 @@
 			(project "Breakoutboard_Project"
 				(path "/e5b5f554-bb6f-4ecb-9cfb-c4d676c83727"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 128.905 115.57)
+		(size 41.275 23.495)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "bab7d68f-99fb-444e-8eb8-51cc89c207e3")
+		(property "Sheetname" "Breakouts"
+			(at 128.905 114.8584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Breakouts.kicad_sch"
+			(at 128.905 139.6496 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Breakoutboard_Project"
+				(path "/e5b5f554-bb6f-4ecb-9cfb-c4d676c83727"
+					(page "4")
 				)
 			)
 		)
