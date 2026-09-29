@@ -10079,7 +10079,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "10uf"
 			(at 261.62 45.72 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10089,7 +10089,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_LGA:Bosch_LGA-14_3x2.5mm_P0.5mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 261.62 49.53 0)
 			(hide yes)
 			(show_name no)
