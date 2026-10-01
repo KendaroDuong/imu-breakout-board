@@ -4652,7 +4652,7 @@
 		(uuid "ff830014-503e-408d-874c-0d28345d44e8")
 	)
 	(image
-		(at -96.52 87.63)
+		(at -130.175 94.615)
 		(scale 2.05924)
 		(uuid "066f4df7-0e80-4b13-b078-420442ef2639")
 		(data "iVBORw0KGgoAAAANSUhEUgAABLoAAANjCAYAAACtDnMJAAAABHNCSVQICAgIfAhkiAAAIABJREFU"
@@ -16414,7 +16414,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-176_24x24mm_P0.5mm"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Vertical"
 			(at 152.4 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -17643,7 +17643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-176_24x24mm_P0.5mm"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Vertical"
 			(at 129.54 139.7 0)
 			(hide yes)
 			(show_name no)
