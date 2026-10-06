@@ -1618,34 +1618,16 @@
 		(uuid "030c0c73-e827-4925-b1cc-f2d4fb2cb210")
 	)
 	(junction
-		(at 115.57 13.97)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "155b1dc1-b242-43dc-a37a-afb5243613b4")
-	)
-	(junction
 		(at 237.49 21.59)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "19478509-9676-4c02-927d-dfbd558e91ab")
 	)
 	(junction
-		(at 115.57 19.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1a083de8-b549-47ce-b077-e772afe8b4dc")
-	)
-	(junction
 		(at 107.95 13.97)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "32ed2297-c5ec-4511-ad66-2b819ad5fb5d")
-	)
-	(junction
-		(at 123.19 19.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "451eebf4-8c5a-4c2c-99fe-443d007344de")
 	)
 	(junction
 		(at 220.98 21.59)
@@ -1678,16 +1660,10 @@
 		(uuid "9a659385-100f-4427-a862-4f7ad7b23970")
 	)
 	(junction
-		(at 132.08 19.05)
+		(at 118.11 19.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "be9a9ae6-dfbb-431f-a314-a04a0d7c7836")
-	)
-	(junction
-		(at 123.19 13.97)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d27a3099-6205-4eea-a49a-d401d2758c46")
 	)
 	(junction
 		(at 212.09 21.59)
@@ -1765,7 +1741,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 21.59) (xy 132.08 19.05)
+			(xy 118.11 20.32) (xy 118.11 19.05)
 		)
 		(stroke
 			(width 0)
@@ -1795,16 +1771,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 13.97) (xy 123.19 13.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c01465c-90ec-40c5-b028-4e5c08170580")
-	)
-	(wire
-		(pts
 			(xy 212.09 21.59) (xy 228.6 21.59)
 		)
 		(stroke
@@ -1812,16 +1778,6 @@
 			(type default)
 		)
 		(uuid "62712660-ac7b-45d0-91c4-81bd0e5bdeef")
-	)
-	(wire
-		(pts
-			(xy 123.19 19.05) (xy 132.08 19.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e57eb06-0fec-46ca-9cb5-58c59f4f0db0")
 	)
 	(wire
 		(pts
@@ -1845,17 +1801,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 13.97) (xy 132.08 13.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a106c9bd-5ebd-4583-8334-d76ba8d6dbb5")
-	)
-	(wire
-		(pts
-			(xy 107.95 19.05) (xy 115.57 19.05)
+			(xy 107.95 19.05) (xy 118.11 19.05)
 		)
 		(stroke
 			(width 0)
@@ -1965,17 +1911,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 19.05) (xy 123.19 19.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ecd83e31-b0bb-4bb3-8366-8007e6b50da4")
-	)
-	(wire
-		(pts
-			(xy 107.95 13.97) (xy 115.57 13.97)
+			(xy 107.95 13.97) (xy 118.11 13.97)
 		)
 		(stroke
 			(width 0)
@@ -8833,88 +8769,6 @@
 		(uuid "eda66cfa-b811-4604-9c33-fad818986b5a")
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 123.19 16.51 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "08ad0ae6-33b6-416e-bae5-4165ecc6b81a")
-		(property "Reference" "C14"
-			(at 125.73 15.2399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uf"
-			(at 125.73 17.7799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 123.19 16.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 123.19 16.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 123.19 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "c00fef88-1d93-43ea-a517-5f64828244ff")
-		)
-		(pin "1"
-			(uuid "ad5f91bc-0ecb-4c87-97fa-f5cbe3924dca")
-		)
-		(instances
-			(project "Breakoutboard_Project"
-				(path "/e5b5f554-bb6f-4ecb-9cfb-c4d676c83727/38e0ac5b-4602-4996-9f8b-d7ac020f4a8a"
-					(reference "C14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 171.45 31.75 270)
 		(unit 1)
@@ -9399,7 +9253,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 132.08 16.51 0)
+		(at 118.11 16.51 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9410,7 +9264,7 @@
 		(fields_autoplaced yes)
 		(uuid "5df3a1ca-55bc-40e7-8105-e79e1e98d0db")
 		(property "Reference" "C15"
-			(at 134.62 15.2399 0)
+			(at 120.65 15.2399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9421,7 +9275,7 @@
 			)
 		)
 		(property "Value" "1uf"
-			(at 134.62 17.7799 0)
+			(at 120.65 17.7799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9432,7 +9286,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 132.08 16.51 0)
+			(at 118.11 16.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9443,7 +9297,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 16.51 0)
+			(at 118.11 16.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9454,7 +9308,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 132.08 26.67 0)
+			(at 118.11 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9474,88 +9328,6 @@
 			(project "Breakoutboard_Project"
 				(path "/e5b5f554-bb6f-4ecb-9cfb-c4d676c83727/38e0ac5b-4602-4996-9f8b-d7ac020f4a8a"
 					(reference "C15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 115.57 16.51 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "68d0a0cc-cf15-411c-869c-26f16e4f41dc")
-		(property "Reference" "C13"
-			(at 118.11 15.2399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" ".1uf"
-			(at 118.11 17.7799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 115.57 16.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 115.57 16.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 115.57 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "c0343da9-03b9-4733-9916-1fbf8667d573")
-		)
-		(pin "1"
-			(uuid "4271b146-e906-47f8-b557-004a3218d22d")
-		)
-		(instances
-			(project "Breakoutboard_Project"
-				(path "/e5b5f554-bb6f-4ecb-9cfb-c4d676c83727/38e0ac5b-4602-4996-9f8b-d7ac020f4a8a"
-					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -9721,7 +9493,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 132.08 21.59 0)
+		(at 118.11 20.32 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9732,7 +9504,7 @@
 		(fields_autoplaced yes)
 		(uuid "75b68602-7da5-43a7-bd96-538e1d8456eb")
 		(property "Reference" "#PWR017"
-			(at 132.08 27.94 0)
+			(at 118.11 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9743,7 +9515,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 132.08 26.67 0)
+			(at 118.11 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9753,7 +9525,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 132.08 21.59 0)
+			(at 118.11 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9764,7 +9536,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 21.59 0)
+			(at 118.11 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9775,7 +9547,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 132.08 21.59 0)
+			(at 118.11 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
