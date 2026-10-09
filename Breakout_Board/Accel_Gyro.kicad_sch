@@ -34,7 +34,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CC-14-3_ADI"
+			(property "Footprint" "ADXL380:CC-14-3_ADI"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -294,7 +294,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at 66.04 -12.7 180)
 					(length 7.62)
 					(name "GND"
@@ -1670,6 +1670,10 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d608d8cf-831c-4429-97fb-cc466985d745")
+	)
+	(no_connect
+		(at 96.52 30.48)
+		(uuid "0fb7b35b-949d-44aa-b043-a3995f4191a4")
 	)
 	(no_connect
 		(at 96.52 25.4)

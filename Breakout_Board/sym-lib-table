@@ -6,4 +6,5 @@
 	(lib (name "MMC5983MA") (type "KiCad") (uri "${KIPRJMOD}/Libraries/MMC5983MA/KiCADv6/2026-09-22_21-51-22.kicad_sym") (options "") (descr ""))
 	(lib (name "BMP581") (type "KiCad") (uri "${KIPRJMOD}/Libraries/BMP581/KiCADv6/2026-09-22_21-56-10.kicad_sym") (options "") (descr ""))
 	(lib (name "SeniorDesignLibrary") (type "KiCad") (uri "${KIPRJMOD}/SeniorDesignLibrary.kicad_sym") (options "") (descr ""))
+	(lib (name "BMP585") (type "KiCad") (uri "${KIPRJMOD}/Libraries/BMP585/KiCADv6/2026-10-08_02-04-15.kicad_sym") (options "") (descr ""))
 )
