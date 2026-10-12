@@ -15162,6 +15162,16 @@
 		)
 		(uuid "3c0d7118-79e1-448b-b32c-21ab727c4f7f")
 	)
+	(label "CS_MAG"
+		(at 207.01 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3cccef4f-13ed-40a5-8e8b-3d685d568902")
+	)
 	(label "MISO"
 		(at 196.85 49.53 180)
 		(effects
@@ -15222,16 +15232,6 @@
 		)
 		(uuid "4bfd4aea-63d1-4328-8156-acfdee98dc06")
 	)
-	(label "CS_MAG"
-		(at 114.3 62.23 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "52c14efe-88ff-4f9c-857c-bb8dd30b4e01")
-	)
 	(label "CS_BARO"
 		(at 233.68 119.38 0)
 		(effects
@@ -15271,6 +15271,16 @@
 			(justify right bottom)
 		)
 		(uuid "54b2ca5c-a799-4a4b-89ab-bfd27bb6cd1a")
+	)
+	(label "A1"
+		(at 207.01 144.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "553cb8c3-ef96-4dbc-83e9-a54e9adf8605")
 	)
 	(label "ICM_INT1"
 		(at 233.68 156.21 180)
@@ -15632,16 +15642,6 @@
 		)
 		(uuid "bfa451d5-bdeb-456a-8374-9659b59fb2cb")
 	)
-	(label "B0"
-		(at 113.03 44.45 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c01b7b95-0619-4188-bce6-4b37ace0625d")
-	)
 	(label "CS_ADXL"
 		(at 255.27 143.51 0)
 		(effects
@@ -15652,6 +15652,16 @@
 		)
 		(uuid "c75bc64e-50fc-4be1-b111-44bd7a3ed6e1")
 	)
+	(label "CS_MAG"
+		(at 113.03 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c9c98f2c-9c30-4031-a74c-3a8873e69e52")
+	)
 	(label "B12"
 		(at 184.15 160.02 0)
 		(effects
@@ -15661,16 +15671,6 @@
 			(justify left bottom)
 		)
 		(uuid "c9f096e6-aedf-4c2b-8417-cd93d860986b")
-	)
-	(label "CS_MAG"
-		(at 207.01 144.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d1e79a6e-2221-4534-a259-173a888fbdd2")
 	)
 	(label "MOSI"
 		(at 34.29 134.62 180)
@@ -15721,16 +15721,6 @@
 			(justify right bottom)
 		)
 		(uuid "d9528d98-2e58-4797-9dbc-e355b2a43459")
-	)
-	(label "B0"
-		(at 207.01 127 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "deac409c-1580-46d3-81f0-d4490d05d7ae")
 	)
 	(label "A9"
 		(at 82.55 48.26 180)
@@ -15871,6 +15861,16 @@
 			(justify left bottom)
 		)
 		(uuid "fb309e74-23d0-4b58-ae66-f6a99dec97e3")
+	)
+	(label "A1"
+		(at 114.3 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fcd62554-6db1-4f91-a3ca-1da0cd87759e")
 	)
 	(label "B2"
 		(at 207.01 121.92 0)
