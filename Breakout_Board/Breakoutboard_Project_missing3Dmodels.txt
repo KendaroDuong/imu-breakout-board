@@ -1,0 +1,10 @@
+### Missing 3D models - created on 2026-10-12 19:26
+### Printed by checking_3D_models plugin
+Board file: C:/Users/Nicos.000/Documents/School program/SeniorDesign/imu-breakout-board/Breakout_Board/Breakoutboard_Project.kicad_pcb
+3D missing models written to:
+C:\Users\Nicos.000\Documents\School program\SeniorDesign\imu-breakout-board\Breakout_Board\Breakoutboard_Project_missing3Dmodels.txt
+-------
+('J3', 'C:\\Program Files\\KiCad\\10.0\\share\\kicad\\3dmodels\\Connector_Hirose.3dshapes\\Hirose_DF11-12DP-2DSA_2x06_P2.00mm_Vertical.step')
+-------
+NUM of 3D missing models:1
+checked extensions ['.stp', '.step', '.stpZ']

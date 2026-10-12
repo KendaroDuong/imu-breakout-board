@@ -1,0 +1,1 @@
+[('J3', 'C:\\Program Files\\KiCad\\10.0\\share\\kicad\\3dmodels\\Connector_Hirose.3dshapes\\Hirose_DF11-12DP-2DSA_2x06_P2.00mm_Vertical.step')]

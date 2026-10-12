@@ -15052,16 +15052,6 @@
 		)
 		(uuid "25c8ca02-bda6-429e-b3b8-5fe44165b8c6")
 	)
-	(label "CS_MAG"
-		(at 233.68 121.92 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2be2a40b-df82-4d75-9f14-d318904c2b54")
-	)
 	(label "A10"
 		(at 82.55 50.8 180)
 		(effects
@@ -15482,6 +15472,16 @@
 		)
 		(uuid "8aef3cb2-032c-4b97-bfcc-676b66e111c4")
 	)
+	(label "Baro_INT"
+		(at 233.68 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8afa0327-b836-4af6-a498-471a3b6386e1")
+	)
 	(label "ADXL_INT1"
 		(at 196.85 39.37 180)
 		(effects
@@ -15611,6 +15611,16 @@
 			(justify left bottom)
 		)
 		(uuid "b44da96f-8461-4e61-91cb-3fa0ff4d8eda")
+	)
+	(label "CS_MAG"
+		(at 233.68 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b4f44698-7281-4ac8-a895-91fbc72b5e7f")
 	)
 	(label "A8"
 		(at 82.55 45.72 180)
@@ -15811,16 +15821,6 @@
 			(justify left bottom)
 		)
 		(uuid "ee56fdba-45bf-487d-b5e1-61514169af5a")
-	)
-	(label "Baro_INT"
-		(at 233.68 124.46 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f1af873d-a6b2-4bff-a763-3a1384a356e7")
 	)
 	(label "CS_ICM"
 		(at 255.27 146.05 0)
