@@ -1,0 +1,5 @@
+(version 1)
+
+(rule "Fine pitch IC pads"
+  (condition "A.Type == 'Pad' && B.Type == 'Pad' && (A.memberOfFootprint('U1') || A.memberOfFootprint('U3') || A.memberOfFootprint('U4') || A.memberOfFootprint('U5')) && (B.memberOfFootprint('U1') || B.memberOfFootprint('U3') || B.memberOfFootprint('U4') || B.memberOfFootprint('U5'))")
+  (constraint clearance (min 0.15mm)))
