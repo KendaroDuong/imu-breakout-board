@@ -1589,28 +1589,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "ensure what bclk mclk and other stuff do here?\n"
-		(exclude_from_sim no)
-		(at 76.454 53.34 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-		)
-		(uuid "507c5cf2-681b-4613-9818-9d2f61d15f15")
-	)
-	(text "These are external clocks"
-		(exclude_from_sim no)
-		(at 99.314 23.114 0)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-		)
-		(uuid "c1ab8870-bd6d-413a-a0e4-fe8ea41bdfc7")
-	)
 	(junction
 		(at 220.98 16.51)
 		(diameter 0)
